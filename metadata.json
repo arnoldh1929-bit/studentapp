@@ -1,0 +1,5 @@
+{
+  "name": "EngClass Manager - Hệ thống Quản lý Lớp học Tiếng Anh",
+  "description": "Ứng dụng quản lý học sinh, điểm danh và tự động tính học phí tích hợp VietQR dành cho giáo viên dạy thêm.",
+  "requestFramePermissions": []
+}
